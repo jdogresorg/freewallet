@@ -15,9 +15,8 @@ FreeWallet is a free open source wallet which supports Bitcoin and Counterparty.
 - **Password Protected** - Add an Password, PIN or thumbprint scan to give your wallet an additional layer of security.
 - **QR Code Authorization** - Support for QR Code Authorization which allows anyone to register/login to a site using only their bitcoin address. [QR Code Authorization](https://github.com/Authpartyio/Spec/blob/master/QR_Authorization.spec.md)
 - **Decentralized Exchange** - Integrated exchange interface that allows peer-to-peer trading of counterparty tokens in a truly decentralized and trustless manner.
-- **Decentralized Betting** - Integrated betting interface that allows anyone to operate a oracle, browse a listing of available feeds, and place bets on feeds.
 - **Dividends / Distributions** - Distribute an token of your choosing to holders of any other counterparty token.
-- **MPMA Sends** - Multi-Peer-Multi-Asset sends allow you to send many tokens to many addresses at the same time in a single transaction.
+- **MPMA Sends** - Multi-Peer-Multi-Asset (MPMA) sends allow you to send many tokens to many addresses at the same time in a single transaction.
 - **Dispensers** - Easily setup dispensers or vending machines to sell your tokens directly for Bitcoin (BTC).
 - **Dispenser Watchlists** - Setup dispenser watchlists to ensure your getting the best price on your dispenser purchases.
 
