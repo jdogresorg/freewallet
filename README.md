@@ -31,6 +31,4 @@ To report technical issues or suggest features for the mobile version, please su
 ## Desktop Version
 The desktop version of Freewallet is open source and available [here](https://github.com/jdogresorg/freewallet-desktop). 
 
-This version will only be open-sourced after the Exchange and Betting bounties are fully funded and the interfaces completed.
-
 To report technical issues or suggest features for the desktop version, please submit your requests [here](https://github.com/jdogresorg/freewallet-desktop/issues).
