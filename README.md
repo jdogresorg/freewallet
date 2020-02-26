@@ -17,6 +17,10 @@ FreeWallet is a free open source wallet which supports Bitcoin and Counterparty.
 - **Decentralized Exchange** - Integrated exchange interface that allows peer-to-peer trading of counterparty tokens in a truly decentralized and trustless manner.
 - **Decentralized Betting** - Integrated betting interface that allows anyone to operate a oracle, browse a listing of available feeds, and place bets on feeds.
 - **Dividends / Distributions** - Distribute an token of your choosing to holders of any other counterparty token.
+- **MPMA Sends** - Multi-Peer-Multi-Asset sends allow you to send many tokens to many addresses at the same time in a single transaction.
+- **Dispensers** - Easily setup dispensers or vending machines to sell your tokens directly for Bitcoin (BTC).
+- **Dispenser Watchlists** - Setup dispenser watchlists to ensure your getting the best price on your dispenser purchases.
+
 
 
 ## Mobile Version
@@ -25,10 +29,8 @@ The mobile version of FreeWallet is open source and available [here](https://git
 To report technical issues or suggest features for the mobile version, please submit your requests [here](https://github.com/jdogresorg/freewallet-mobile/issues).
 
 ## Desktop Version
-The desktop version of Freewallet will be open-sourced in the future and available [here](https://github.com/jdogresorg/freewallet-desktop). 
+The desktop version of Freewallet is open source and available [here](https://github.com/jdogresorg/freewallet-desktop). 
 
 This version will only be open-sourced after the Exchange and Betting bounties are fully funded and the interfaces completed.
 
-To report technical issues or suggest features for the desktop version, please submit your requests [here](https://github.com/jdogresorg/freewallet/issues).
-
-If you would like to license the desktop version please contact Jeremy Johnson &lt;j-dog@j-dog.net&gt;
+To report technical issues or suggest features for the desktop version, please submit your requests [here](https://github.com/jdogresorg/freewallet-desktop/issues).
